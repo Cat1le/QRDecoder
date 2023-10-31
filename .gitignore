@@ -1,0 +1,6 @@
+service/venv
+service/.vscode
+client/.idea
+client/.gradle
+client/build
+client/out
